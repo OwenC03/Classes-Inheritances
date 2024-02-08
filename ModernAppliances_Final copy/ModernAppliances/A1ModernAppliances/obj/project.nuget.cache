@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWupXnXWEz1bJlolPRTUplKYHXe5a5lOdbfgv0m4T9FRsVOagKMSPIihENGDmU44PSZMeCyw7kw28AXDj6w4Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Momow\\Downloads\\ModernAppliances_Treshia_Copy\\ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Momow\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Momow\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Momow\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Momow\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
